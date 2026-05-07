@@ -1,0 +1,27 @@
+SOC Engineer
+
+We are hiring a SOC Engineer to support detection, triage, and incident response operations across endpoint, identity, cloud, and network telemetry. This role partners with security analysts, infrastructure teams, and application owners to improve alert quality and reduce time to investigation.
+
+Required qualifications:
+
+- 2-3 years of SOC, detection engineering, or incident response experience
+- Hands-on experience with Splunk or a similar SIEM
+- Experience investigating endpoint alerts using CrowdStrike, Microsoft Defender, or another EDR platform
+- Familiarity with MITRE ATT&CK, NIST incident response concepts, and common attacker tradecraft
+- Ability to write clear investigation notes, escalation summaries, and response recommendations
+- Understanding of phishing, suspicious login activity, privilege misuse, malware triage, and lateral movement indicators
+
+Responsibilities:
+
+- Monitor and triage alerts from SIEM, EDR, identity, email, and cloud security tools
+- Tune noisy detections and document false-positive patterns
+- Develop new detection logic for high-priority threats
+- Support incident response playbooks and post-incident reporting
+- Collaborate with IT and engineering teams to validate telemetry quality
+
+Preferred qualifications:
+
+- Experience with Sigma-style detections, Python scripting, or SOAR workflows
+- Exposure to cloud security alerts in AWS or Azure
+- Security+, CySA+, GCIH, GCIA, or equivalent certification
+- Hybrid work location with occasional on-site collaboration

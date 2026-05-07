@@ -1,0 +1,26 @@
+Cloud Security Engineer
+
+We are seeking a Cloud Security Engineer to help build secure guardrails, detection coverage, and compliance automation across cloud infrastructure. The role is virtual anywhere in the United States and works closely with cloud platform, DevOps, compliance, and incident response teams.
+
+Required qualifications:
+
+- Master's degree with 5 years of relevant security or cloud infrastructure experience, or equivalent work experience
+- Deep hands-on knowledge of AWS services including EC2, S3, RDS, Lambda, CloudFormation, VPC, IAM, CloudTrail, and GuardDuty
+- Experience building automation with Python, Bash, PowerShell, or similar scripting languages
+- Experience with Infrastructure as Code such as Terraform, CloudFormation, or Ansible
+- Knowledge of DevOps practices including CI/CD pipelines, container security, Docker, and Kubernetes
+- Familiarity with cloud governance, compliance monitoring, and automated remediation
+
+Responsibilities:
+
+- Serve as a cloud security technical expert for AWS and Azure IaaS environments
+- Build automation to monitor cloud resources for compliance and misconfiguration risk
+- Establish preventive guardrails and automated remediation for common security issues
+- Partner with platform teams to integrate security into deployment workflows
+- Investigate cloud security incidents and improve detection coverage
+
+Preferred qualifications:
+
+- CISSP, AWS Security Specialty, CCSK, or cloud security certification
+- Experience developing AWS Service Control Policies or Resource Control Policies
+- Background in regulated environments or security risk management

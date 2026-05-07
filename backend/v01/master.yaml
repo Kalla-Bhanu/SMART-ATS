@@ -1,0 +1,60 @@
+name: "Alex Chen"
+title: "Security Engineer"
+contact:
+  email: "alex.chen.security@example.com"
+  phone: "+1 555 0100"
+  github: "github.com/alex-chen-sec"
+  linkedin: "linkedin.com/in/alex-chen-security"
+summary: |
+  Security Engineer with 2+ years of experience building detection pipelines, telemetry automation,
+  and cross-platform security controls across identity, email, endpoint, cloud, DLP, and vulnerability
+  domains. Operates the detection lifecycle from risk scenario design and telemetry validation through
+  ATT&CK mapping, tuning, enrichment, and response documentation.
+experience:
+  - title: "Security Engineer"
+    company: "Northwind Technologies"
+    location: "Remote"
+    start: "Jun 2024"
+    end: "Present"
+    bullets:
+      - id: "detections"
+        text: "Authored or significantly improved 25-35 detections across identity, email, endpoint, cloud, DLP, and vulnerability-risk domains, covering suspicious MFA/SSO, risky VPN, phishing, sensitive-data movement, cloud exposure, and high-risk vulnerable assets."
+      - id: "pipelines"
+        text: "Engineered detection pipelines across 10+ source families including Splunk, Entra ID, Duo, GlobalProtect, Defender O365/MDE, CrowdStrike, Cortex/Prisma Cloud, Purview DLP, and Qualys."
+      - id: "cnapp"
+        text: "Built CNAPP/CSPM correlation logic in Cortex and Prisma Cloud joining misconfigurations, vulnerabilities, identity risk, and runtime signals into prioritized remediation context for engineering teams."
+      - id: "telemetry"
+        text: "Added telemetry quality checks for stale feeds, schema drift, source-health gaps, and missing identity/asset context so detection failures could be caught before analyst impact."
+  - title: "Security Analyst"
+    company: "Aurora State University"
+    location: "Boston, MA"
+    start: "Jan 2023"
+    end: "May 2024"
+    bullets:
+      - id: "containment"
+        text: "Improved incident containment by 25% by investigating CrowdStrike Falcon and Microsoft Defender endpoint alerts, analyzing process execution, registry changes, and lateral-movement indicators."
+      - id: "azure-ad"
+        text: "Reduced unauthorized access risk by 10% by analyzing Azure AD access reviews, RBAC assignments, privilege changes, and remediation of excessive permissions."
+      - id: "servicenow"
+        text: "Streamlined incident handling by integrating alerts with ServiceNow playbooks and NIST-aligned reporting, supporting 40+ cases/month."
+skills:
+  Detection Engineering: "Splunk SPL, Datadog monitor-as-code, Sigma-style rules, false-positive tuning, ATT&CK mapping"
+  Cloud Security: "AWS CloudTrail/GuardDuty/IAM/STS/KMS/EKS/Lambda/S3, Cortex Cloud, Prisma Cloud, Azure"
+  Identity Security: "Entra ID Conditional Access/MFA, Azure AD, Okta, Duo, GlobalProtect"
+  Endpoint and Email: "CrowdStrike Falcon, MDE, Defender O365, Proofpoint"
+  Scripting: "Python, Bash, PowerShell, SQL"
+  Frameworks: "NIST CSF, MITRE ATT&CK, OWASP Top 10, ISO 27001, PCI-DSS"
+education:
+  - school: "Aurora State University"
+    degree: "Master's, Information Security Management"
+    dates: "Aug 2022 - May 2024"
+    notes: "NSA/DHS Center of Academic Excellence in Cyber Defense"
+projects:
+  - name: "Datadog Detection Engineering Lab"
+    bullets:
+      - id: "datadog-lab"
+        text: "Built 7 monitor-as-code detections with 21 paired validation cases, 5 negative-control self-tests, CI verification, tuning history, conservative ATT&CK mapping, and triage runbooks."
+  - name: "CloudSec SOC Detection Lab"
+    bullets:
+      - id: "cloudsec-lab"
+        text: "Designed 5 AWS-first detection scenarios and engineered Lambda synthetic replay into Datadog with CloudTrail/IAM/STS/S3/EKS/KMS context, evidence templates, and demo runbook."

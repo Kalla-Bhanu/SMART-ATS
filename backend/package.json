@@ -1,0 +1,14 @@
+{
+  "name": "our-own-backend",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node server/index.mjs",
+    "start": "node server/index.mjs"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "js-yaml": "^4.1.1"
+  }
+}

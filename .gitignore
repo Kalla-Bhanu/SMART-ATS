@@ -1,0 +1,44 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Environment
+.env
+.env.local
+.env.production
+
+# Build output
+dist/
+build/
+*.tsbuildinfo
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# Local development files
+/mnt/transcripts/
+*.pdf
+/tmp/
+/uploads/
+backend/uploads/
+backend/logs/
+backend/public/
+
+# Sensitive files
+.secret
+*.key
+*.pem
+credentials.json
