@@ -1,0 +1,3 @@
+# Keep the portfolio language bar focused on the JavaScript/TypeScript app.
+# This helper is an implementation detail for PDF text extraction.
+backend/scripts/parse-resume-pdf.py linguist-generated=true
